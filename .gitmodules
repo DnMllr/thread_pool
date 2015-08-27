@@ -1,0 +1,6 @@
+[submodule "lib/find_number_of_cores"]
+	path = lib/find_number_of_cores
+	url = git@github.com:DnMllr/find_number_of_cores.git
+[submodule "lib/priority_queue"]
+	path = lib/priority_queue
+	url = git@github.com:DnMllr/priority_queue.git
